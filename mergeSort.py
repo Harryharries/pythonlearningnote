@@ -95,6 +95,7 @@ def main():
     L = [0, 11, 44,55, 33, 66, 100, 200]
     ready_merge_sort(L)
     print(L)
+    
 
 
 if __name__ == "__main__":
